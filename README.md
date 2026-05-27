@@ -1,6 +1,6 @@
 # Hi 👋, I'm Surendra Rajput
 
-## Backend-Focused Full Stack Developer | Ruby on Rails Engineer
+## Full Stack Developer | Senior Ruby on Rails Engineer
 
 Full Stack Developer with 4+ years of experience building scalable web applications using Ruby on Rails, React.js, and Python.
 
