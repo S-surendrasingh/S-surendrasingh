@@ -1,4 +1,4 @@
-# Hi 👋, I'm Surendra Rajput
+# Hi 👋, I'm Surendra
 
 ## Senior Full Stack Developer | Backend & Cloud Engineer
 
